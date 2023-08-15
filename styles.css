@@ -195,4 +195,20 @@ html {
     border-radius: 25px;
     padding: 0;
   }
+
+  .success {
+    width: 100vw;
+    height: 100vh;
+    padding: 10px 30px;
+    position: relative;
+    margin: 0;
+  }
+
+  .success-icon {
+    margin-top: 250px;
+  }
+
+  .dismiss-btn {
+    margin-top: 400px;
+  }
 }
